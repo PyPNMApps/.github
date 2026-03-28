@@ -1,1 +1,1 @@
-# PyPNMApps - Suite of DOCSIS PNM tools and applications
+# PyPNMApps - Suite of DOCSIS PNM Tools and Applications
