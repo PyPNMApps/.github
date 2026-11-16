@@ -70,17 +70,17 @@ CMTS workflows to desktop and web-based analysis.
   </tr>
   <tr>
     <td width="300" align="center">
-      <a href="https://github.com/PyPNMApps/PNM-Viewer-Toolkit">
+      <a href="https://github.com/PyPNMApps/raven">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PyPNMApps/PNM-Viewer-Toolkit/master/docs/images/pnm-viewer-toolkit-logo-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PyPNMApps/PNM-Viewer-Toolkit/master/docs/images/pnm-viewer-toolkit-logo-light.svg">
-          <img src="https://raw.githubusercontent.com/PyPNMApps/PNM-Viewer-Toolkit/master/docs/images/pnm-viewer-toolkit-logo-light.svg" alt="PNM Viewer Toolkit logo" width="280">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PyPNMApps/raven/master/docs/images/raven-logo-dark.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PyPNMApps/raven/master/docs/images/raven-logo-light.png">
+          <img src="https://raw.githubusercontent.com/PyPNMApps/raven/master/docs/images/raven-logo-light.png" alt="RAVEN logo" width="280">
         </picture>
       </a>
     </td>
     <td>
-      <h3><a href="https://github.com/PyPNMApps/PNM-Viewer-Toolkit">PNM Viewer Toolkit</a></h3>
-      <p>Native Qt desktop viewer and Rust-powered <code>pnm-decode</code> CLI. Open local DOCSIS PNM captures, explore measurement graphs, and export JSON.</p>
+      <h3><a href="https://github.com/PyPNMApps/raven">RAVEN</a></h3>
+      <p><strong>RF Analysis, Visualization &amp; Engineering Navigator.</strong> Native Qt desktop viewer and Rust-powered <code>pnm-decode</code> CLI. Open local DOCSIS PNM captures, explore measurement graphs, and export JSON.</p>
       <p><em>Under development.</em></p>
     </td>
   </tr>
